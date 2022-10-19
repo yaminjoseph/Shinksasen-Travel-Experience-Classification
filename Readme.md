@@ -42,11 +42,12 @@ Accuracy Score: The evaluation metric is simply the percentage of predictions m
  
 In other words, the best possible accuracy is 100% (or 1) and the worst possible accuracy 0%.
 
-### FILES IN REPO
+### File Structure
 
-⋅⋅* data: raw data, processed data and submission data (csv)
-⋅⋅* 00. Shinksasen Travel Experience - Data Analysis & Preprocessing (python)
-⋅⋅* 01. Shinksasen Travel Experience - Random Forest & XGBBoost Classifiers (python)
-⋅⋅* Readme (md)
+⋅⋅* Readme (md).
+⋅⋅* data - raw data, processed data and submission data (csv).
+⋅⋅* 00 Shinksasen Travel Experience - Data Analysis & Preprocessing (python).
+⋅⋅* 01 Shinksasen Travel Experience - Random Forest & XGBBoost Classifiers (python).
+
 
 
