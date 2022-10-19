@@ -18,8 +18,8 @@ The problem consists of 2 separate datasets: Travel data & Survey data. Trav
 
 The data has been split into two groups and provided in the Dataset folder. The folder contains both train and test data separately.
 
-	⋅⋅ Train_Data.
-	⋅⋅* Test_Data.
+	⋅ Train_Data.
+	⋅ Test_Data.
 
 Target Variable: Overall_Experience (1 represents ‘satisfied’, and 0 represents ‘not satisfied’)
 
@@ -33,8 +33,8 @@ All the data is self-explanatory. The survey levels are explained in the Data Di
 
 Submission File Format: You will need to submit a CSV file with exactly 35,602 entries plus a header row. The file should have exactly two columns
 
-	⋅⋅* ID.
-	⋅⋅* Overall_Experience (contains 0 & 1 values, 1 represents ‘Satisfied’, and 0 represents ‘Not Satisfied’).
+	⋅ ID.
+	⋅ Overall_Experience (contains 0 & 1 values, 1 represents ‘Satisfied’, and 0 represents ‘Not Satisfied’).
 
 ### Evaluation Criteria:
 
@@ -42,12 +42,12 @@ Accuracy Score: The evaluation metric is simply the percentage of predictions m
  
 In other words, the best possible accuracy is 100% (or 1) and the worst possible accuracy 0%.
 
-### File Structure
+### File Structure (Repo)
 
-	⋅⋅* Readme (md).
-	⋅⋅* data: raw data, processed data and submission data (csv).
-	⋅⋅* 00. Shinksasen Travel Experience - Data Analysis & Preprocessing (python).
-	⋅⋅* 01, Shinksasen Travel Experience - Random Forest & XGBBoost Classifiers (python).
+	⋅ Readme (md).
+	⋅ data: raw data, processed data and submission data (csv).
+	⋅ 00. Shinksasen Travel Experience - Data Analysis & Preprocessing (python).
+	⋅ 01. Shinksasen Travel Experience - Random Forest & XGBBoost Classifiers (python).
 
 
 
